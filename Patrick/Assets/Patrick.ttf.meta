@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 66e2e3ec39d971e40ae280b68b22dc4d
+timeCreated: 1484703004
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Patrick
+  fontNames:
+  - Patrick
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
